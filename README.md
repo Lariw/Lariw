@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kamil Hajdula, a QA Automation Tester with a passion for ensuring software quality through automated testing. Below you'll find some information about me.
+I'm a QA Automation Tester with a passion for ensuring software quality through automated testing. Below you'll find some information about me.
 
 ## About Me
 
