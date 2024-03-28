@@ -4,15 +4,27 @@ I'm Kamil Hajdula, a QA Automation Tester with a passion for ensuring software q
 
 ## About Me
 
-- **Name/Nickname:** Kamil Hajdula / Lariw
+- **Name:** Kamil Hajdula
 - **Profession:** QA Automation Tester
 - **Location:** Kraków, Poland
 - **Professional Experience:** 2y
+- **Collaborate through: B2B, UZ, UoP**
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python (learning)
-- **Testing Tools:** Playwright, Puppeteer, Jenkins, K6, Postman, Cypress, Selenium (learning)
+- **Programming Languages:**
+     - JavaScript,
+     - Python (learning)
+- **Testing Tools:**
+     - Playwright,
+     - Puppeteer,
+     - Jenkins,
+     - K6 (performance),
+     - Axe (accessibility),
+     - Postman(API),
+     - Cypress,
+     - Selenium (learning)
+       
 - **Other Skills:** :
     - Electron, HTML, CSS, React
     - Proficiency in Agile methodology
@@ -20,6 +32,13 @@ I'm Kamil Hajdula, a QA Automation Tester with a passion for ensuring software q
     - Understanding of fundamental concepts in application security
     - Skill in writing effective test reports
     - Proficiency in test management tools like JIRA
+
+ ## Contact
+
+If you'd like to chat or have any questions, feel free to contact me via:
+
+- **Email:** [Click here](mailto:kamilhajdula@hotmail.com)
+- **LinkedIn:** [Click here](https://linkedin.com/in/lariw)
 
 
 <!--
