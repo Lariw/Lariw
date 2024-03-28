@@ -40,7 +40,7 @@ If you'd like to chat or have any questions, feel free to contact me via:
 
  [**Email** :link:](mailto:kamilhajdula@hotmail.com)
  
- [**LinkedIn:** :link:](https://linkedin.com/in/lariw)
+ [**LinkedIn** :link:](https://linkedin.com/in/lariw)
 
 
 <!--
