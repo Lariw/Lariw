@@ -7,7 +7,7 @@ I'm a QA Automation Tester with a passion for ensuring software quality through 
 - **Name:** Kamil Hajdula
 - **Profession:** QA Automation Tester
 - **Location:** Kraków, Poland
-- **Professional Experience:** 2y
+- **Experience:** 2y
 - **Collaborate through: B2B, UZ, UoP**
 -  Remote, or hybrid in Krakow/Katowice area
 
