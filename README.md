@@ -37,8 +37,9 @@ I'm Kamil Hajdula, a QA Automation Tester with a passion for ensuring software q
 
 If you'd like to chat or have any questions, feel free to contact me via:
 
-- **Email:** [Click here](mailto:kamilhajdula@hotmail.com)
-- **LinkedIn:** [Click here](https://linkedin.com/in/lariw)
+ [**Email**:link:](mailto:kamilhajdula@hotmail.com)
+ 
+ [**LinkedIn:**:link:](https://linkedin.com/in/lariw)
 
 
 <!--
