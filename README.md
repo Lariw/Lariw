@@ -22,7 +22,7 @@ I'm a QA Automation Tester with a passion for ensuring software quality through 
      - Jenkins,
      - K6 (performance),
      - Axe (accessibility),
-     - Postman(API),
+     - Postman (API),
      - Cypress,
      - Selenium (learning)
        
