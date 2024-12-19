@@ -32,7 +32,7 @@ I'm a QA Automation Tester with a passion for ensuring software quality through 
     - Ability to work with version control systems such as Git
     - Understanding of fundamental concepts in application security
     - Skill in writing effective test reports
-    - Proficiency in test management tools like JIRA
+    - Proficiency in test management tools like JIRA Zephyr
 
  ## Contact
 
