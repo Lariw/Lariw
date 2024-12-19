@@ -15,7 +15,7 @@ I'm a QA Automation Tester with a passion for ensuring software quality through 
 
 - **Programming Languages:**
      - JavaScript,
-     - Python (learning)
+     - JAVA (learning)
 - **Testing Tools:**
      - Playwright,
      - Puppeteer,
